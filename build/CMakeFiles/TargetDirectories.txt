@@ -1,0 +1,3 @@
+C:/Users/rokat/Desktop/Danya/Checkers/build/CMakeFiles/Checkers.dir
+C:/Users/rokat/Desktop/Danya/Checkers/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/rokat/Desktop/Danya/Checkers/build/CMakeFiles/ZERO_CHECK.dir
